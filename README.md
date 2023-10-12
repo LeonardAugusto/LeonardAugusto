@@ -2,7 +2,7 @@
 - 🔭 Estou atualmente trabalhando no projeto BoraPDF
 - 🌱 Estou atualmente aprendendo C
 - 📫 Contate-me no e-mail: leonardoassousati@gmail.com
-- 😄 Pronomes: Ele/dele, Elu/Delu | Him/His, They/them
+- 😄 Pronomes: Ele/dele, Elu/Delu | He/His, They/them
 
 ---
 
