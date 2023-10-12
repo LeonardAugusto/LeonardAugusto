@@ -1,4 +1,4 @@
-## Olá! Eu sou Leonard Augusto! 👋
+## Olá! Eu sou Leonardo Augusto! 👋
 - 🔭 Estou atualmente trabalhando no projeto BoraPDF
 - 🌱 Estou atualmente aprendendo C
 - 📫 Contate-me no e-mail: leonardoassousati@gmail.com
