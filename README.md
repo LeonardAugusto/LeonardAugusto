@@ -1,6 +1,7 @@
 ## Olá! Eu sou Leonardo Augusto! 👋
-- 🔭 Estou atualmente trabalhando no projeto BoraPDF
-- 🌱 Estou atualmente aprendendo C
+- 📖 Tecnologia da Informação
+- 🔭 Trabalhando no projeto BoraPDF como Designer
+- 🌱 Aprendendo C
 - 📫 Contate-me no e-mail: leonardoassousati@gmail.com
 - 😄 Pronomes: Ele/dele, Elu/Delu | He/His, They/them
 
@@ -13,7 +14,7 @@
 
 ---
 #### Ferramentas que uso
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width='40' height='60' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"  width='40' height='60'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width='40' height='60' /> 
                   
 
 #### Ferramentas que tenho experiência
@@ -21,7 +22,7 @@
           
                     
 #### Ferramentas que desejo aprender
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width='40' height='60' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width='40' height='60' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width='40' height='60' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width='40' height='60'  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width='40' height='60' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width='40' height='60' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width='40' height='60' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width='40' height='60'  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"  width='40' height='60'/>
           
           
           
